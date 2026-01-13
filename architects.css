@@ -109,6 +109,24 @@ padding-left: 20px;
   margin-bottom: 20px;
   border-radius: 8px;
 }
+
+#badge{
+ padding: 45px 42px;
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-left: -100px;
+  margin-top: -100px;
+ }
+ #year{
+ 
+    font-size: 4rem;
+  font-weight: 700;
+
+ }
+ 
+ .feature-architect img{
+  width: 100%;
+ }
 .feature-card .feature-title{
   font-weight: 600px;
   font-size: 1.25rem;
@@ -178,7 +196,8 @@ padding-left: 20px;
 
   .navbar,
   .nav-link,
-  .teems{
+  .teems,
+  .feature{
     flex-direction: column;
   }
   .teem-img-container,
@@ -204,16 +223,25 @@ padding-left: 20px;
   .our-features{
     margin-left: 20px;
   }
+  #badge{
+    margin-top: 20px;
+    margin-left: 10px;
+  }
 }
 
 
 /* Medium size device */
 @media screen and (min-width:576px) and (max-width:992px) {
-   .teem{
+   .teem,
+   .feature{
     flex-direction: column;
 
    }
    .our-features{
     margin: 0 50px;
    }
+    #badge{
+    margin-top: 20px;
+    margin-left: 10px;
+  }
 }
