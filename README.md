@@ -1,8 +1,22 @@
 # G3 Architects - Architecture Firm Website
 
+![G3 Architects Banner](./images/banner.png)
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge)](https://tanzid-48.github.io/Build_-A_Architects-website/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/tanzid-48/Build_-A_Architects-website)
+[![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)](https://tanzid-48.github.io/Build_-A_Architects-website/)
+
+</div>
+
+---
+
+## 📸 Preview
+
 A modern, professional website for G3 Architects - a brand new group of architects. Built with HTML and CSS, featuring a clean and elegant design to showcase architectural services and achievements.
 
-🔗 **Live Demo:** [https://tanzid-48.github.io/Build_-A_Architects-website/](https://tanzid-48.github.io/Build_-A_Architects-website/)
+---
 
 ## 📋 Project Overview
 
@@ -10,17 +24,21 @@ G3 Architects is a professionally designed website for an architecture firm, sho
 
 ## ✨ Features
 
-- **Responsive Design** - Optimized for desktop, tablet, and mobile devices
-- **Hero Section** - Eye-catching banner with compelling call-to-action
-- **Team Showcase** - Visual presentation of team members and collaboration
-- **Feature Highlights** - Detailed sections showcasing key features and services
-- **Achievement Statistics** - Display of impressive facts and numbers
-- **Experience Badge** - Prominent "10+ Years Experience" highlight
-- **Sponsor Section** - Showcase of major brand partnerships
-- **Professional Navigation** - Clean menu with About, Contact Us, Login, and Home
-- **Visual Storytelling** - Strategic use of images and icons
+- ✅ **Responsive Design** - Optimized for desktop, tablet, and mobile devices
+- ✅ **Hero Section** - Eye-catching banner with compelling call-to-action
+- ✅ **Team Showcase** - Visual presentation of team members and collaboration
+- ✅ **Feature Highlights** - Detailed sections showcasing key features and services
+- ✅ **Achievement Statistics** - Display of impressive facts and numbers
+- ✅ **Experience Badge** - Prominent "10+ Years Experience" highlight
+- ✅ **Sponsor Section** - Showcase of major brand partnerships
+- ✅ **Professional Navigation** - Clean menu structure
+- ✅ **Visual Storytelling** - Strategic use of images and icons
 
 ## 🛠️ Technologies Used
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)
 
 - **HTML5** - Semantic markup structure
 - **CSS3** - Modern styling and layout
@@ -30,65 +48,107 @@ G3 Architects is a professionally designed website for an architecture firm, sho
 ## 🎯 Key Sections
 
 ### 1. Navigation Bar
-- **Brand Name**: G3 Architects
-- **Menu Items**: About, Contact Us, Login, Home
-- Responsive and user-friendly navigation
+
+<div align="center">
+
+**G3 Architects**  
+About | Contact Us | Login | Home
+
+</div>
 
 ### 2. Hero Section
-- **Headline**: "Brand New Group of Architects"
-- Engaging description
-- "Explore More" call-to-action button
-- Banner image showcasing architectural work
+
+![Hero Banner](./images/banner.png)
+
+**"Brand New Group of Architects"**
+
+Engaging description with "Explore More" call-to-action button showcasing architectural excellence.
 
 ### 3. Team Section
-- Four team member images
-- Visual representation of collaboration
-- Professional team presentation
 
-### 4. Quick Features List
-- "Quick list of Our Features" section
-- Descriptive content
-- "Explore More" button for engagement
+<div align="center">
 
-### 5. Detailed Features Section
+| Team Member 1 | Team Member 2 | Team Member 3 | Team Member 4 |
+|---------------|---------------|---------------|---------------|
+| ![Team 1](./images/team1.png) | ![Team 2](./images/team2.png) | ![Team 3](./images/team3.png) | ![Team 4](./images/team4.png) |
+
+**Our Collaborative Team**
+
+</div>
+
+### 4. Features Section
+
 **"Features you will love & enjoy"**
 
 Four key features highlighted:
-1. **Desktop & Mobile Version** - Cross-platform compatibility
-2. **Desktop & Mobile Version** - Responsive design
-3. **Desktop & Mobile Version** - Seamless experience
-4. **Desktop & Mobile Version** - Optimized viewing
 
-Each feature includes:
-- Descriptive title
-- Detailed explanation
-- Professional presentation
+| Feature | Description |
+|---------|-------------|
+| **Desktop & Mobile Version** | Cross-platform compatibility with responsive design |
+| **Desktop & Mobile Version** | Seamless experience across all devices |
+| **Desktop & Mobile Version** | Optimized viewing for best user experience |
+| **Desktop & Mobile Version** | Professional presentation on any screen size |
 
-### 6. Experience Highlight
-- **10+ Years Experience** badge
-- Architect image showcase
-- Trust and credibility building
+### 5. Experience Highlight
 
-### 7. Some Facts (Statistics Section)
-Impressive achievements displayed:
+<div align="center">
 
-- 🏆 **54** Awards Winnings
-- 📊 **1,458** Projects Finished
-- 👥 **590** Clients Worked
-- 📧 **22,578** Emails Send
+![Architect](./images/architect.png)
 
-Each statistic features:
-- Icon representation
-- Large number display
-- Descriptive label
+**10+ Years**  
+**Experience**
 
-### 8. Sponsors Section
+*Building excellence since 2013*
+
+</div>
+
+### 6. Some Facts - Statistics Section
+
+<div align="center">
+
+| ![Awards](./images/icons/ribon.png) | ![Projects](./images/icons/projects.png) | ![Clients](./images/icons/customers.png) | ![Emails](./images/icons/email.png) |
+|:---:|:---:|:---:|:---:|
+| **54** | **1,458** | **590** | **22,578** |
+| Awards Winnings | Projects Finished | Clients Worked | Emails Send |
+
+</div>
+
+### 7. Sponsors Section
+
 **"Our Sponsors"** - Partnership with major brands:
-- Spotify
-- Amazon
-- Google
-- Telerama
-- Figma
+
+<div align="center">
+
+![Spotify](./images/sponsors/spotify.png)
+![Amazon](./images/sponsors/amazon.png)
+![Google](./images/sponsors/google.png)
+![Telerama](./images/sponsors/telerama.png)
+![Figma](./images/sponsors/figma.png)
+
+**Trusted by Industry Leaders**
+
+</div>
+
+## 🚀 Getting Started
+
+### Prerequisites
+- A modern web browser (Chrome, Firefox, Safari, Edge)
+- Git installed on your machine
+
+### Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/tanzid-48/Build_-A_Architects-website.git
+
+# 2. Navigate to the project directory
+cd Build_-A_Architects-website
+
+# 3. Open index.html in your browser
+open index.html  # macOS
+start index.html # Windows
+xdg-open index.html # Linux
+```
 
 ## 📁 Project Structure
 
@@ -121,36 +181,6 @@ Build_-A_Architects-website/
 └── README.md
 ```
 
-## 🚀 Getting Started
-
-### Prerequisites
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- Git installed on your machine
-
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/tanzid-48/Build_-A_Architects-website.git
-```
-
-2. Navigate to the project directory
-```bash
-cd Build_-A_Architects-website
-```
-
-3. Open `index.html` in your browser
-```bash
-# On macOS
-open index.html
-
-# On Windows
-start index.html
-
-# On Linux
-xdg-open index.html
-```
-
 ## 🎨 Design Features
 
 - **Professional Color Scheme** - Sophisticated and elegant palette
@@ -163,25 +193,38 @@ xdg-open index.html
 
 ## 📱 Responsive Design
 
-The website adapts seamlessly to different screen sizes:
-- **Desktop** - Full-featured layout (1200px+)
-- **Tablet** - Optimized medium screen layout (768px - 1199px)
-- **Mobile** - Touch-friendly mobile layout (320px - 767px)
+<div align="center">
+
+| Device Type | Screen Size | Status |
+|-------------|-------------|--------|
+| 💻 Desktop | 1200px+ | ✅ Optimized |
+| 📱 Tablet | 768px - 1199px | ✅ Optimized |
+| 📱 Mobile | 320px - 767px | ✅ Optimized |
+
+</div>
 
 ## 🌟 Highlights
 
 ### Statistics & Achievements
-- Over **50 awards** won
-- Nearly **1,500 projects** completed
-- **590+ clients** served
-- **22,000+ emails** sent
-- **10+ years** of experience
+
+<div align="center">
+
+```
+🏆 54+ Awards Won
+📊 1,458+ Projects Completed  
+👥 590+ Clients Served
+📧 22,578+ Emails Sent
+⭐ 10+ Years of Experience
+```
+
+</div>
 
 ### Brand Partnerships
+
 Collaboration with industry-leading companies:
-- Technology giants (Google, Amazon)
-- Design tools (Figma)
-- Media platforms (Spotify, Telerama)
+- **Technology Giants**: Google, Amazon
+- **Design Tools**: Figma
+- **Media Platforms**: Spotify, Telerama
 
 ## 🔧 Customization Guide
 
@@ -205,11 +248,17 @@ To customize this website:
 
 ## 🌐 Browser Support
 
-- ✅ Google Chrome (latest)
-- ✅ Mozilla Firefox (latest)
-- ✅ Safari (latest)
-- ✅ Microsoft Edge (latest)
-- ✅ Opera (latest)
+<div align="center">
+
+| Browser | Version |
+|---------|---------|
+| Chrome | ✅ Latest |
+| Firefox | ✅ Latest |
+| Safari | ✅ Latest |
+| Edge | ✅ Latest |
+| Opera | ✅ Latest |
+
+</div>
 
 ## 🚀 Deployment
 
@@ -219,7 +268,7 @@ This project is deployed using **GitHub Pages**:
 2. Navigate to Pages section
 3. Select main branch as source
 4. Save and wait for deployment
-5. Site will be live at: `https://[username].github.io/Build_-A_Architects-website/`
+5. Site will be live at: `https://tanzid-48.github.io/Build_-A_Architects-website/`
 
 ## 💡 Future Enhancements
 
@@ -237,11 +286,11 @@ Potential features to add:
 
 ## 📊 Performance
 
-- Lightweight and fast loading
-- Optimized images
-- Clean code structure
-- SEO-friendly markup
-- Accessible design
+- ✅ Lightweight and fast loading
+- ✅ Optimized images
+- ✅ Clean code structure
+- ✅ SEO-friendly markup
+- ✅ Accessible design
 
 ## 👤 Author
 
@@ -266,6 +315,12 @@ For any questions or suggestions regarding this project, please open an issue in
 
 ---
 
+<div align="center">
+
 **All rights reserved copyright@2023 startup landing page design**
 
-*Made with ❤️ for architectural excellence*
+**Made with ❤️ for architectural excellence**
+
+⭐ Star this repo if you find it useful!
+
+</div>
